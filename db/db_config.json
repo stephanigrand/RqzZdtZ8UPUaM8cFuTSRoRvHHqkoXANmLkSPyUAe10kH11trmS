@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-02-19",
+  "baseUrl": "https://stephanigrand.github.io/RqzZdtZ8UPUaM8cFuTSRoRvHHqkoXANmLkSPyUAe10kH11trmS/db/",
+  "databases": {
+    "arabic": {
+      "name": "Arabic",
+      "file": "yhvJX2aO_A_q0503C.db",
+    },
+    "computer": {
+      "name": "Computer",
+      "file": "O0EXYlN1_C_0jrWkD.db",
+    },
+    "english": {
+      "name": "English",
+      "file": "60DNmMy_E_q14fZUu.db",
+    },
+    "stories": {
+      "name": "Stories",
+      "file": "33rK79eQx_S_3ebZy.db",
+    }
+  }
+}
