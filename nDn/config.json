@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "lastUpdated": "2026-02-19",
+  "baseUrl": "https://stephanigrand.github.io/RqzZdtZ8UPUaM8cFuTSRoRvHHqkoXANmLkSPyUAe10kH11trmS/nDn/",
+  "databases": [
+    {
+      "id": "arabic",
+      "displayName": "Arabic",
+      "remoteFile": "yhvJX2aO_A_q0503C.nDn"
+    },
+    {
+      "id": "computer",
+      "displayName": "Computer",
+      "remoteFile": "O0EXYlN1_C_0jrWkD.nDn"
+    },
+    {
+      "id": "english",
+      "displayName": "English",
+      "remoteFile": "60DNmMy_E_q14fZUu.nDn"
+    },
+    {
+      "id": "stories",
+      "displayName": "Stories",
+      "remoteFile": "33rK79eQx_S_3ebZy.nDn"
+    }
+  ]
+}
