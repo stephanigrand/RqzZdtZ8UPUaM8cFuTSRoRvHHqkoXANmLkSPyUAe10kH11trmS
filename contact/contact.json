@@ -5,12 +5,12 @@
       "platforms": [
         {
           "platform": "instagram",
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/3840px-Instagram_icon.png",
+          "icon": "Icon(FontAwesomeIcons.instagram)",
           "page": "https://www.instagram.com/wataniapp"
         },
         {
           "platform": "telegram",
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/960px-Telegram_logo.svg.png",
+          "icon": "Icon(FontAwesomeIcons.telegram)",
           "page": "t.me/wataniapp"
         }
       ]
@@ -20,7 +20,7 @@
       "platforms": [
         {
           "platform": "telegram",
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/960px-Telegram_logo.svg.png",
+          "icon": "Icon(FontAwesomeIcons.telegram)",
           "page": "t.me/wataniapp?direct"
         }
       ]
